@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-osx-app.github.io/.github/techtool-pro" target="_blank">  
+<a href="https://get-install-osx.github.io/.github/techtool-pro" target="_blank">  
   <img src="https://img.shields.io/badge/GET%20FOR%20MAC-%F0%9F%92%BE-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get TechTool Pro for Mac">  
 </a>  
 </div>  
